@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "727827694623",
+    "firebase_url": "https://nevadasoft-app-tazafol.firebaseio.com",
+    "project_id": "nevadasoft-app-tazafol",
+    "storage_bucket": "nevadasoft-app-tazafol.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:727827694623:android:7aacb903accf391151c12a",
+        "android_client_info": {
+          "package_name": "com.nevadasoft.app.tazafol"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "727827694623-f4afj8om5o4qr48tjrjoggdm8m8gbklc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nevadasoft.app.tazafol",
+            "certificate_hash": "69b30d5c93a19a0ee968d84310883216aca51129"
+          }
+        },
+        {
+          "client_id": "727827694623-4na9rjbhqeasc7k0relclemncsf84aqd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCyNeoKu574cSYxPU8b1QXsXsR5bFFFzY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "727827694623-4na9rjbhqeasc7k0relclemncsf84aqd.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "727827694623-0lqk349ahje1n4kcsbr8nd0040d8bddj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.nevadasoft.app.tazafol"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
